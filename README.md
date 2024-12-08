@@ -24,7 +24,7 @@ A curated list of awesome things related to <a href='https://github.com/okcashpr
 - [okai](https://github.com/okcashpro/okai) - OKai is a simple, fast, and lightweight AI agent framework
 
 ## Document and Tutorial
-- [okai-document](https://ai16z.github.io/okai/docs/intro) - Official Documentation
+- [okai-document](https://okcashpro.github.io/okai/docs/intro) - Official Documentation
 
 ## Libs and Components
 - [agentmemory](https://github.com/ai16z/agentmemory) - Easy-to-use agent memory, powered by chromadb and postgres
@@ -47,9 +47,9 @@ A curated list of awesome things related to <a href='https://github.com/okcashpr
 ## Websites
 - [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
 - [okais-world](https://github.com/okcashpro/okais-world) - Witness the swarm awaken.
-- [Active Bounties](https://ai16z.github.io/website) - Bounties list
+- [Active Bounties](https://okcashpro.github.io/website) - Bounties list
 - [okais-list](https://github.com/okcashpro/okais-list) - okais-list
-- [Contributors-profiles](https://ai16z.github.io/profiles/) - Contributors profiles
+- [Contributors-profiles](https://okcashpro.github.io/profiles/) - Contributors profiles
 
 ## Video and Space
 - [okai AI Agent Software Overview](https://www.youtube.com/watch?v=xmlsILjX23s) -  by Shaw 11-1-24
