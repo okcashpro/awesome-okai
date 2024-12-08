@@ -1,26 +1,27 @@
 <h2 align='center'>awesome-eliza</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://github.com/ai16z/eliza' target="_blank">ai16z/eliza</a> framework
+A curated list of awesome things related to <a href='https://github.com/okcashpro/okai' target="_blank">okcashpro/okai</a> framework
 <br>
 
 <p align='center'>
-<i>Created by: <a href='https://x.com/thejoven_com' target="_blank">thejoven_com</a></i>
+<i>Created by: <a href='https://x.com/thejoven_com' target="_blank">thejoven</a></i><br>
+<i>Updated by: <a href='https://x.com/oktokencash' target="_blank">ok devs</a></i>
 <br><br>
 
-<a href='https://github.com/thejoven/awesome-eliza/' target="_blank">
+<a href='https://github.com/okcashpro/awesome-okai/' target="_blank">
 <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
 </a>
 </p>
 <p align="center">
   <br>
-  <img width="400" src="https://raw.githubusercontent.com/thejoven/awesome-eliza/refs/heads/main/assets/eliza-logo.jpg" alt="logo of thejoven/awesome-eliza repository">
+  <img width="400" src="https://raw.githubusercontent.com/okcashpro/awesome-okai/refs/heads/main/assets/okai-logo.png" alt="logo of okcashpro/awesome-okai repository">
   <br>
   <br>
 </p>
 
 ## Frameworks
-- [eliza](https://github.com/ai16z/eliza) - Eliza is a simple, fast, and lightweight AI agent framework
+- [eliza](https://github.com/okcashpro/okai) - Eliza is a simple, fast, and lightweight AI agent framework
 
 ## Document and Tutorial
 - [eliza-document](https://ai16z.github.io/eliza/docs/intro) - Official Documentation
@@ -35,7 +36,7 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 ## UI
 
 ## Tools
-- [eliza-starter](https://github.com/ai16z/eliza-starter) - eliza starter template
+- [eliza-starter](https://github.com/okcashpro/okai-starter) - eliza starter template
 - [ai16z-hat](https://rubyfields.github.io/ai16z-hat/) - Wear a ai16z hat
 - [cobieAI-inspired-by-eliza-python](https://github.com/pzeasy/CobieAI-inspired-by-eliza-python) - Combined Discord and Twitter Bot
 - [twitter-scraper-finetune](https://github.com/ai16z/twitter-scraper-finetune) - Scrape twitter accounts for fine tuning
@@ -45,9 +46,9 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
   
 ## Websites
 - [ai16z](https://ai16z.ai) - Venture Capital, Powered by Autonomous AI Agents
-- [elizas-world](https://github.com/ai16z/elizas-world) - Witness the swarm awaken.
+- [elizas-world](https://github.com/okcashpro/okais-world) - Witness the swarm awaken.
 - [Active Bounties](https://ai16z.github.io/website) - Bounties list
-- [elizas-list](https://github.com/ai16z/elizas-list) - elizas-list
+- [elizas-list](https://github.com/okcashpro/okais-list) - elizas-list
 - [Contributors-profiles](https://ai16z.github.io/profiles/) - Contributors profiles
 
 ## Video and Space
@@ -68,6 +69,6 @@ A curated list of awesome things related to <a href='https://github.com/ai16z/el
 
 Thanks goes to all these wonderful people:
 
-<a href="https://github.com/thejoven/awesome-eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=thejoven/awesome-eliza" />
+<a href="https://github.com/okcashpro/awesome-okai/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=okcashpro/awesome-okai" />
 </a>
